@@ -2,7 +2,7 @@
 
 Welcome to my **Data Analytics Portfolio**.
 
-This repository contains practical projects completed during my **Data Analytics Training Programme**, demonstrating my ability to work with data using **Microsoft Excel, Power BI, SQL and Python**.
+This repository contains practical projects completed during my **Big Data Analytics Programme at ORTSA**, demonstrating my ability to work with data using **Microsoft Excel, Power BI, SQL and Python**.
 
 The projects cover different stages of the data analytics process, including **data cleaning, data preparation, data analysis, data visualization, dashboard development and extracting meaningful business insights**.
 
@@ -10,11 +10,11 @@ The projects cover different stages of the data analytics process, including **d
 
 ## 👨‍💻 About Me
 
-I am a **Junior Data Analyst** and **BSc Computer Science and Information Technology graduate** from the University of KwaZulu-Natal.
+I am a **Junior Data Analyst** with practical training and hands-on experience gained through the **Big Data Analytics Programme at ORTSA**.
 
-I am passionate about using data to identify patterns, solve problems, generate insights and support **data-driven decision-making**.
+I am passionate about using data to identify patterns, generate meaningful insights and support data-driven decision-making.
 
-My current technical focus is:
+My technical focus includes:
 
 **Python • SQL • Excel • Power BI • Data Analysis • Data Visualization**
 
@@ -128,7 +128,7 @@ These projects demonstrate my ability to transform data into interactive reports
 
 ## 3. SQL Projects
 
-This section contains SQL projects and exercises completed during my **Data Analytics Training Programme**.
+This section contains SQL projects and exercises completed during my **Big Data Analytics Programme**.
 
 The projects demonstrate my ability to work with relational databases and use SQL to retrieve, manipulate and analyse structured data.
 
@@ -204,28 +204,11 @@ Through these projects, I have developed practical experience in:
 
 ---
 
-# 🎓 Education
+# 📚 Big Data Analytics Programme
 
-**BSc Computer Science and Information Technology**
-**University of KwaZulu-Natal**
+**Big Data Analytics Programme — ORTSA**
 
-Completed in **2025**.
-
-My degree provided a foundation in:
-
-* Programming
-* Database Management
-* Data Analytics
-* Networking
-* Software Engineering
-
----
-
-# 📚 Data Analytics Training
-
-**Data Analytics Training Programme — ORTSA**
-
-Practical training covering:
+The programme provided practical training and hands-on experience in:
 
 * Microsoft Excel
 * Power BI
@@ -240,11 +223,11 @@ Practical training covering:
 
 ---
 
-# 💡 Career Interests
+# 💼 Career Interests
 
-I am interested in opportunities where I can apply my data analytics skills to solve business problems and support data-driven decision-making.
+I am interested in opportunities where I can apply my data analytics skills to solve business problems, analyse data and support data-driven decision-making.
 
-**Target roles include:**
+**Target roles:**
 
 * Junior Data Analyst
 * Data Analyst
@@ -261,4 +244,10 @@ https://www.linkedin.com/in/saneliso-mahlaba-b84055270/
 
 ---
 
-⭐ **This repository represents my journey into Data Analytics and Business Intelligence and showcases the practical skills and projects I have developed as I pursue opportunities as a Junior Data Analyst.**
+## ✍️ Author
+
+**Saneliso Mahlaba**
+
+**Junior Data Analyst | Python • SQL • Excel • Power BI**
+
+⭐ *This repository showcases my practical data analytics journey and the skills I have developed through hands-on projects using Excel, Power BI, SQL and Python.*
